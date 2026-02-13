@@ -8,7 +8,7 @@ I'm an MSc Epidemiology student and learning Python and R. I enjoy exploring dat
 - **Concepts:** Data Analysis, Statistics, Data Visualization, Epidemiology
 
 ## 💻 Projects
-- **[Survival-Analysis](https://github.com/Careen840/PinnedLoading)** – Conducted survival analysis for a Stroke dataset using R  
+- **[Survival-Analysis]([https://github.com/Careen840/PinnedLoading](https://github.com/Careen840/Survival-Analysis))** – Conducted survival analysis for a Stroke dataset using R  
 - **[Genetics-Data-Analysis](https://github.com/Careen840/Genetics-Data-Analysis)** – Analysis of omics data with Python and R  
 - **[Hotel-Revenue-Analysis](https://github.com/Careen840/Hotel-Revenue-Analysis)** – SQL database with Python for data visualization  
 - **[Marketing-Campaign-Analysis](https://github.com/Careen840/Marketing-Campaign-Analysis)** – Analysis of marketing data in Jupyter Notebook  
