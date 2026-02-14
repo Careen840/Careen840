@@ -21,4 +21,4 @@ I'm an MSc Epidemiology student and learning Python and R. I enjoy exploring dat
 - Apply data science techniques to epidemiology and public health research  
 
 ## 📫 Connect with me
-- LinkedIn: [Careen Evans Joseph]()
+- LinkedIn: [Careen Evans Joseph](https://www.linkedin.com/in/careen-evans-joseph/)
