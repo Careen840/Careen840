@@ -1,6 +1,6 @@
 ## Hi, I'm Careen 👋
 
-I'm an MSc Epidemiology student and learning Python and R. I enjoy exploring datasets, building visualizations, and applying data science to public health and epidemiology. 🚀
+I'm a MSc Epidemiology student and learning Python and R. I enjoy exploring datasets, building visualizations, and applying data science to public health and epidemiology. 🚀
 
 ## 🛠 Skills
 - **Languages:** Python, R  
