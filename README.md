@@ -8,6 +8,7 @@ I'm a MSc Epidemiology student and learning Python and R. I enjoy exploring data
 - **Concepts:** Data Analysis, Statistics, Data Visualization, Epidemiology
 
 ## 💻 Projects
+- **[Malaria-SADC-Countries](https://github.com/Careen840/Malaria-Analysis)** - Goal was to understand how malaria incidence trends and inequalities evolved across SADC countries from 2000–2024?
 - **[Survival-Analysis](https://github.com/Careen840/Survival-Analysis)** – Conducted survival analysis for a Stroke dataset using R  
 - **[Genetics-Data-Analysis](https://github.com/Careen840/Genetics-Data-Analysis)** – Analysis of omics data with Python and R  
 - **[Hotel-Revenue-Analysis](https://github.com/Careen840/Hotel-Revenue-Analysis)** – SQL database with Python for data visualization  
